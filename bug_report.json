@@ -1,5 +1,6 @@
 {
-    "Title":"Error 404",
+    "Title":"Error 404 on home page",
     "Severity":"critical",
-    "Description":"blahblahblah"
+    "Description":"Home page shows error 404"
+    "Expected result":"Home page is running"
 }
