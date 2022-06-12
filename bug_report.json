@@ -7,6 +7,6 @@
     "Preconditions":"Run the Wildberries mobile app (link)."
     "Steps to reproduce":"1. In mobile app, enter any product name in the search field (for example, headphones - link). 2. Without going to the product card, add any product to the basket from the list."
     "Actual result":"Product does't appear in the basket. Pop up error message: _Error during operation_. Screenshot _Error during operation_ attached."
-    "Expected result":"User doesn't need to go to the product card to add product to the basket. It is possible to do this from the list."
+    "Expected result":"Product has been added to the basket from the list. User doesn't need to go to the product card."
     "Attachments":"Screenshot _Error during operation_"
 }
